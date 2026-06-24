@@ -7,3 +7,8 @@ def add(a,b):
 def sub(a,b):
     value=a-b
     return value 
+
+#  Multiplication function 
+def multi(x,y):
+    value=x*y
+    return value 
